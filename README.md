@@ -6,7 +6,9 @@ Toolkit Khusus Intel or Detective Profesional!
 <img src="toolkit.PNG" />
 <p>
 ✅ running on Terminal/Termux
+  <p>
 ✅ install recommended 'bash setup.sh'
+    <p>
 ✅ run program 'bash toolkits.sh'
 <p>
 🤕 Jika Ada Request Menambahkan Fitur Atau Anda Ingin Menambahkan Fitur Sendiri Kedalam Tool Silahkan,
